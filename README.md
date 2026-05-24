@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Yash Raj 👋</h1>
+<h1 align="center">Yash Raj</h1>
 
 <p align="center">
-  <em>B.Tech · Mathematics & Scientific Computing · Data Science Enthusiast</em>
+  B.Tech · Mathematics & Scientific Computing
 </p>
 
 <p align="center">
@@ -16,19 +16,15 @@
 
 ---
 
-## 🧮 About Me
+## About
 
-I'm a **Mathematics & Scientific Computing** student who fell in love with data — the messy, real-world kind. I find it deeply satisfying to take a raw CSV full of noise and turn it into a clear insight that actually changes how a business makes decisions.
+Mathematics & Scientific Computing student with a focus on data science and backend engineering. I work on building data pipelines, designing REST APIs, and applying statistical methods to extract insight from real-world datasets. My mathematical background shapes how I approach model design, data quality, and performance trade-offs.
 
-My background in math isn't just an academic checkbox. It shapes how I think about models, question assumptions, and build things that hold up under scrutiny. I'm currently in that exciting phase where I'm bridging the gap from *understanding data* to *predicting with it*.
-
-```text
-Core belief: Every dataset has a story. The math just helps you read it.
-```
+Currently deepening my work in predictive analytics and machine learning — moving from descriptive analysis toward building systems that forecast and classify.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 **Data Science & Analytics**
 
@@ -53,40 +49,36 @@ Core belief: Every dataset has a story. The math just helps you read it.
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📊 [E-Commerce Customer RFM Segmentation API](link-to-repo)
-> *Turning 100,000+ transactions into actionable marketing intelligence.*
+### [E-Commerce Customer RFM Segmentation API](link-to-repo)
 
-Built an end-to-end data science pipeline that ingests raw relational data, computes **Recency, Frequency, and Monetary** scores, and serves real-time customer segment classifications through a production-ready REST API. The most interesting challenge: over **95% of customers had only one purchase**, which meant standard quantile scoring was useless — and forced me to design custom scoring logic to surface the truly valuable segments.
+An end-to-end data science pipeline and REST API for customer segmentation. Processes 100,000+ real-world e-commerce transactions to compute **Recency, Frequency, and Monetary** scores and classify customers into actionable business segments in real time.
 
-`Python` `FastAPI` `Pandas` `Seaborn` `RFM Analysis` `REST API`
+A key finding during EDA — over 95% of customers had made only a single purchase — required designing custom scoring functions outside standard quantile methods to meaningfully isolate high-value segments from the broader one-time buyer pool.
 
----
-
-### 🌿 [Sustainable Shopping Assistant](link-to-repo)
-> *AI-powered mobile app for eco-conscious purchasing decisions.*
-
-A full-stack project connecting a Flutter mobile frontend to a Python/FastAPI backend powered by **Groq AI**. Users get real-time sustainability insights and mathematically informed purchase recommendations — an experiment in making AI feel genuinely useful in everyday decisions.
-
-`Flutter` `Dart` `FastAPI` `Python` `Groq AI` `Mobile Dev`
+`Python` · `FastAPI` · `Pandas` · `Seaborn` · `RFM Analysis`
 
 ---
 
-## 🌱 Currently Learning
+### [Sustainable Shopping Assistant](link-to-repo)
 
-I've moved past data wrangling and I'm now going deeper:
+A full-stack mobile application delivering AI-powered sustainability insights at the point of purchase. Integrates a Flutter frontend with a Python/FastAPI backend and Groq AI to provide real-time, data-driven recommendations for eco-conscious decision-making.
 
-- **SQL** — writing efficient queries on large, messy datasets
-- **Scikit-Learn** — regression, classification, and clustering pipelines
-- **Machine Learning fundamentals** — understanding the math *behind* the models, not just calling `.fit()`
-- **Algorithm optimization** — applying scientific computing principles to make pipelines faster and leaner
-
-The goal: go from *describing* data to *predicting* with it.
+`Flutter` · `Dart` · `FastAPI` · `Python` · `Groq AI`
 
 ---
 
-## 📈 GitHub Stats
+## Currently Learning
+
+- **SQL** — query optimization and working with large-scale structured datasets
+- **Scikit-Learn** — supervised and unsupervised learning pipelines
+- **Machine learning fundamentals** — regression, classification, and clustering with emphasis on the underlying mathematics
+- **Pipeline optimization** — applying scientific computing principles to improve data processing efficiency
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash49-Xe&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
@@ -95,15 +87,7 @@ The goal: go from *describing* data to *predicting* with it.
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
-I'm always open to talking about data, math, open-source, or interesting problems.
-
-- 💼 **LinkedIn:** [yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe)
-- 📧 **Email:** yashraj4009.xe@gmail.com
-
----
-
-<p align="center">
-  <em>"Without data, you're just another person with an opinion." — W. Edwards Deming</em>
-</p>
+- **LinkedIn:** [linkedin.com/in/yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe)
+- **Email:** yashraj4009.xe@gmail.com
