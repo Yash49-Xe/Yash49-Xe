@@ -80,6 +80,7 @@ A full-stack mobile application delivering AI-powered sustainability insights at
 ## GitHub Stats
 
 <p align="center">
+  [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash49-Xe)](https://github.com/Yash49-Xe/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=Yash49-Xe&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash49-Xe&layout=compact&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
