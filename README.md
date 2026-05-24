@@ -41,11 +41,10 @@ Currently deepening my work in predictive analytics and machine learning — mov
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white)
 
-**Mobile & Hardware**
+**Data Structures & Algorithms**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
 
 ---
 
@@ -90,4 +89,5 @@ A full-stack mobile application delivering AI-powered sustainability insights at
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe)
+- **LeetCode:** [leetcode.com/u/Yash_xe--49](https://leetcode.com/u/Yash_xe--49)
 - **Email:** yashraj4009.xe@gmail.com
