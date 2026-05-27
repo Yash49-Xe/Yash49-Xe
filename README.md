@@ -6,10 +6,12 @@
   <a href="https://www.linkedin.com/in/yash-raj-49xe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://x.com/Yash_49_Xe">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
   <a href="mailto:yashraj4009.xe@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Yash49-Xe&style=flat&color=6366f1" alt="Profile views"/>
 </p>
 
 ---
@@ -32,6 +34,7 @@ Currently deepening my work in predictive analytics and machine learning — mov
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
 **Backend & APIs**
 
@@ -94,5 +97,14 @@ A full-stack mobile application delivering AI-powered sustainability insights at
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe)
+- **Twitter / X:** [@Yash_49_Xe](https://x.com/Yash_49_Xe)
 - **LeetCode:** [leetcode.com/u/Yash_xe--49](https://leetcode.com/u/Yash_xe--49)
 - **Email:** yashraj4009.xe@gmail.com
+
+---
+ 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash49-Xe&style=flat&color=6366f1" alt="Profile views"/>
+</p>
+ 
+
