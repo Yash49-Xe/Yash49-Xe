@@ -48,7 +48,7 @@ Currently deepening my work in predictive analytics and machine learning — mov
 
 ## Projects
 
-### [Dynamic Pricing Optimization Engine](https://github.com/Yash49-Xe/dynamic-pricing-engine)([link-to-repo](https://github.com/Yash49-Xe/dynamic-pricing-engine))
+### [Dynamic Pricing Optimization Engine](https://github.com/Yash49-Xe/dynamic-pricing-engine)
 
 A high-performance microservice that computes the mathematically optimal price for products to maximize profit. Uses **SciPy's** `minimize` algorithm to locate the exact peak of a profit parabola by balancing base costs, dynamic demand multipliers, and competitor pricing. **PyArrow** loads a compressed Parquet database directly into RAM on boot, eliminating disk I/O bottlenecks and enabling Pandas Boolean indexing across 100,000+ synthetic products in milliseconds.
 
@@ -56,7 +56,7 @@ A high-performance microservice that computes the mathematically optimal price f
 
 ---
 
-### [E-Commerce Customer RFM Segmentation API]([link-to-repo](https://github.com/Yash49-Xe/ecommerce-rfm-api))
+### [E-Commerce Customer RFM Segmentation API](https://github.com/Yash49-Xe/ecommerce-rfm-api)
 
 An end-to-end data science pipeline and REST API for customer segmentation. Processes 100,000+ real-world e-commerce transactions to compute **Recency, Frequency, and Monetary** scores and classify customers into actionable business segments in real time.
 
@@ -66,7 +66,7 @@ A key finding during EDA — over 95% of customers had made only a single purcha
 
 ---
 
-### [Sustainable Shopping Assistant]([link-to-repo](https://github.com/Yash49-Xe/sustainable-shopping-backend))
+### [Sustainable Shopping Assistant](https://github.com/Yash49-Xe/sustainable-shopping-backend)
 
 A full-stack mobile application delivering AI-powered sustainability insights at the point of purchase. Integrates a Flutter frontend with a Python/FastAPI backend and Groq AI to provide real-time, data-driven recommendations for eco-conscious decision-making.
 
