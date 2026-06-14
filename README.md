@@ -51,6 +51,14 @@ Currently deepening my work in predictive analytics and machine learning — mov
 
 ## Projects
 
+### [Automated Wealth & Portfolio Optimization API](https://github.com/Yash49-Xe/portfolio-optimization-api)
+
+An asynchronous backend microservice that ingests live market data and computes the mathematically optimal capital allocation across a multi-asset portfolio. An `asyncio` background worker syncs EOD closing prices and the live 10-year US Treasury rate from the **FMP API** into a local SQLite database on a 24-hour cycle, fully decoupling data ingestion from request handling. **SciPy's** SLSQP algorithm then minimizes the negative Sharpe Ratio over the Efficient Frontier to produce optimal portfolio weights.
+
+`Python` · `FastAPI` · `SciPy` · `Pandas` · `NumPy` · `SQLite` · `httpx`
+
+---
+
 ### [Dynamic Pricing Optimization Engine](https://github.com/Yash49-Xe/dynamic-pricing-engine)
 
 A high-performance microservice that computes the mathematically optimal price for products to maximize profit. Uses **SciPy's** `minimize` algorithm to locate the exact peak of a profit parabola by balancing base costs, dynamic demand multipliers, and competitor pricing. **PyArrow** loads a compressed Parquet database directly into RAM on boot, eliminating disk I/O bottlenecks and enabling Pandas Boolean indexing across 100,000+ synthetic products in milliseconds.
@@ -66,14 +74,6 @@ An end-to-end data science pipeline and REST API for customer segmentation. Proc
 A key finding during EDA — over 95% of customers had made only a single purchase — required designing custom scoring functions outside standard quantile methods to meaningfully isolate high-value segments from the broader one-time buyer pool.
 
 `Python` · `FastAPI` · `Pandas` · `Seaborn` · `RFM Analysis`
-
----
-
-### [Sustainable Shopping Assistant](https://github.com/Yash49-Xe/sustainable-shopping-backend)
-
-A full-stack mobile application delivering AI-powered sustainability insights at the point of purchase. Integrates a Flutter frontend with a Python/FastAPI backend and Groq AI to provide real-time, data-driven recommendations for eco-conscious decision-making.
-
-`Flutter` · `Dart` · `FastAPI` · `Python` · `Groq AI`
 
 ---
 
@@ -102,9 +102,7 @@ A full-stack mobile application delivering AI-powered sustainability insights at
 - **Email:** yashraj4009.xe@gmail.com
 
 ---
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yash49-Xe&style=flat&color=6366f1" alt="Profile views"/>
 </p>
- 
-
