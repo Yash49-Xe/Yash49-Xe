@@ -12,6 +12,9 @@
   <a href="mailto:yashraj4009.xe@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://Yash49-Xe.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
