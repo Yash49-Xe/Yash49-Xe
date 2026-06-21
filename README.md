@@ -4,20 +4,20 @@
 
 ### B.Tech · Mathematics & Scientific Computing
 
-*Building backend systems and data pipelines grounded in mathematical rigor*
-
-<a href="https://www.linkedin.com/in/yash-raj-49xe">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/Yash_49_Xe">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:yashraj4009.xe@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://Yash49-Xe.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-raj-49xe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Yash_49_Xe">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:yashraj4009.xe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://Yash49-Xe.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 </div>
 
@@ -79,46 +79,78 @@ Currently moving from descriptive analysis toward predictive systems — deepeni
 <tr>
 <td width="50%" valign="top">
 
-### [Automated Wealth & Portfolio Optimization API](https://github.com/Yash49-Xe/portfolio-optimization-api)
+<h3>Automated Wealth & Portfolio Optimization API</h3>
 
 An asynchronous backend microservice that ingests live market data and computes the mathematically optimal capital allocation across a multi-asset portfolio. An `asyncio` background worker syncs EOD closing prices and the live 10-year US Treasury rate from the **FMP API** into a local SQLite database on a 24-hour cycle, fully decoupling data ingestion from request handling. **SciPy's** SLSQP algorithm minimizes the negative Sharpe Ratio over the Efficient Frontier to produce optimal portfolio weights.
 
-`Python` `FastAPI` `SciPy` `Pandas` `NumPy` `SQLite` `httpx`
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+<br/><br/>
+
+**[View Repository →](https://github.com/Yash49-Xe/portfolio-optimization-api)**
 
 </td>
 <td width="50%" valign="top">
 
-### [Dynamic Pricing Optimization Engine](https://github.com/Yash49-Xe/dynamic-pricing-engine)
+<h3>Dynamic Pricing Optimization Engine</h3>
 
-A high-performance microservice that computes the mathematically optimal price for products to maximize profit. Uses **SciPy's** `minimize` algorithm to locate the exact peak of a profit parabola, balancing base costs, dynamic demand multipliers, and competitor pricing. **PyArrow** loads a compressed Parquet database directly into RAM on boot, eliminating disk I/O and enabling Pandas Boolean indexing across 100,000+ synthetic products in milliseconds.
+A high-performance microservice that computes the mathematically optimal price for products to maximize profit. Uses **SciPy's** `minimize` algorithm to locate the exact peak of a profit parabola, balancing base costs, dynamic demand multipliers, and competitor pricing. **PyArrow** loads a compressed Parquet database directly into RAM on boot, eliminating disk I/O and enabling Pandas Boolean indexing across 100,000+ products in milliseconds.
 
-`Python` `FastAPI` `SciPy` `Pandas` `PyArrow` `NumPy`
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-41499D?style=flat-square&logo=apache&logoColor=white)
+
+<br/><br/>
+
+**[View Repository →](https://github.com/Yash49-Xe/dynamic-pricing-engine)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [E-Commerce Customer RFM Segmentation API](https://github.com/Yash49-Xe/ecommerce-rfm-api)
+<h3>E-Commerce Customer RFM Segmentation API</h3>
 
 An end-to-end data science pipeline and REST API for customer segmentation. Processes 100,000+ real-world e-commerce transactions to compute **Recency, Frequency, and Monetary** scores and classify customers into actionable business segments in real time.
 
 A key EDA finding — over 95% of customers had made only a single purchase — required custom scoring functions outside standard quantile methods to meaningfully isolate high-value segments from the broader one-time buyer pool.
 
-`Python` `FastAPI` `Pandas` `Seaborn` `RFM Analysis`
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+<br/><br/>
+
+**[View Repository →](https://github.com/Yash49-Xe/ecommerce-rfm-api)**
 
 </td>
 <td width="50%" valign="top">
 
-### More on the way
+<h3>More on the way</h3>
 
-Currently building out additional projects in machine learning and applied statistics — check back soon, or see my [portfolio](https://Yash49-Xe.github.io) for the full list as it grows.
+Currently building out additional projects in machine learning and applied statistics. New work gets pushed regularly — the full, up-to-date list always lives on my portfolio site.
+
+<br/><br/>
+
+**[Visit Portfolio →](https://Yash49-Xe.github.io)**
 
 </td>
 </tr>
 </table>
 
 <br/>
+
 
 ## Currently Learning
 
@@ -152,17 +184,12 @@ Currently building out additional projects in machine learning and applied stati
 
 ## Contact
 
-<div align="center">
+- **LinkedIn:** [linkedin.com/in/yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe)
+- **Twitter / X:** [@Yash_49_Xe](https://x.com/Yash_49_Xe)
+- **LeetCode:** [leetcode.com/u/Yash_xe--49](https://leetcode.com/u/Yash_xe--49)
+- **Email:** yashraj4009.xe@gmail.com
 
-| | |
-|---|---|
-| **LinkedIn** | [linkedin.com/in/yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe) |
-| **Twitter / X** | [@Yash_49_Xe](https://x.com/Yash_49_Xe) |
-| **LeetCode** | [leetcode.com/u/Yash_xe--49](https://leetcode.com/u/Yash_xe--49) |
-| **Email** | yashraj4009.xe@gmail.com |
-
-</div>
-
+---
 <br/>
 
 <p align="center">
