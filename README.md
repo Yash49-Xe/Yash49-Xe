@@ -1,93 +1,136 @@
-<h1 align="center">Yash Raj</h1>
-<p align="center">
-  B.Tech · Mathematics & Scientific Computing
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-raj-49xe">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Yash_49_Xe">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:yashraj4009.xe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://Yash49-Xe.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
 
----
+# Yash Raj
+
+### B.Tech · Mathematics & Scientific Computing
+
+*Building backend systems and data pipelines grounded in mathematical rigor*
+
+<a href="https://www.linkedin.com/in/yash-raj-49xe">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Yash_49_Xe">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:yashraj4009.xe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://Yash49-Xe.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+<br/>
 
 ## About
 
-Mathematics & Scientific Computing student with a focus on data science and backend engineering. I work on building data pipelines, designing REST APIs, and applying statistical methods to extract insight from real-world datasets. My mathematical background shapes how I approach model design, data quality, and performance trade-offs.
+I'm a Mathematics & Scientific Computing student focused on data science and backend engineering. My work centers on building data pipelines, designing REST APIs, and applying statistical methods to extract insight from real-world datasets — with a mathematical background that shapes how I think about model design, data quality, and performance trade-offs.
 
-Currently deepening my work in predictive analytics and machine learning — moving from descriptive analysis toward building systems that forecast and classify.
+Currently moving from descriptive analysis toward predictive systems — deepening my work in machine learning and building models that forecast and classify rather than just describe.
 
----
+<br/>
 
 ## Technical Skills
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 **Data Science & Analytics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=gunicorn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Data Structures & Algorithms**
+</td>
+<td valign="top" width="33%">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+**DSA & Tools**
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [Automated Wealth & Portfolio Optimization API](https://github.com/Yash49-Xe/portfolio-optimization-api)
 
-An asynchronous backend microservice that ingests live market data and computes the mathematically optimal capital allocation across a multi-asset portfolio. An `asyncio` background worker syncs EOD closing prices and the live 10-year US Treasury rate from the **FMP API** into a local SQLite database on a 24-hour cycle, fully decoupling data ingestion from request handling. **SciPy's** SLSQP algorithm then minimizes the negative Sharpe Ratio over the Efficient Frontier to produce optimal portfolio weights.
+An asynchronous backend microservice that ingests live market data and computes the mathematically optimal capital allocation across a multi-asset portfolio. An `asyncio` background worker syncs EOD closing prices and the live 10-year US Treasury rate from the **FMP API** into a local SQLite database on a 24-hour cycle, fully decoupling data ingestion from request handling. **SciPy's** SLSQP algorithm minimizes the negative Sharpe Ratio over the Efficient Frontier to produce optimal portfolio weights.
 
-`Python` · `FastAPI` · `SciPy` · `Pandas` · `NumPy` · `SQLite` · `httpx`
+`Python` `FastAPI` `SciPy` `Pandas` `NumPy` `SQLite` `httpx`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [Dynamic Pricing Optimization Engine](https://github.com/Yash49-Xe/dynamic-pricing-engine)
 
-A high-performance microservice that computes the mathematically optimal price for products to maximize profit. Uses **SciPy's** `minimize` algorithm to locate the exact peak of a profit parabola by balancing base costs, dynamic demand multipliers, and competitor pricing. **PyArrow** loads a compressed Parquet database directly into RAM on boot, eliminating disk I/O bottlenecks and enabling Pandas Boolean indexing across 100,000+ synthetic products in milliseconds.
+A high-performance microservice that computes the mathematically optimal price for products to maximize profit. Uses **SciPy's** `minimize` algorithm to locate the exact peak of a profit parabola, balancing base costs, dynamic demand multipliers, and competitor pricing. **PyArrow** loads a compressed Parquet database directly into RAM on boot, eliminating disk I/O and enabling Pandas Boolean indexing across 100,000+ synthetic products in milliseconds.
 
-`Python` · `FastAPI` · `SciPy` · `Pandas` · `PyArrow` · `NumPy`
+`Python` `FastAPI` `SciPy` `Pandas` `PyArrow` `NumPy`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [E-Commerce Customer RFM Segmentation API](https://github.com/Yash49-Xe/ecommerce-rfm-api)
 
 An end-to-end data science pipeline and REST API for customer segmentation. Processes 100,000+ real-world e-commerce transactions to compute **Recency, Frequency, and Monetary** scores and classify customers into actionable business segments in real time.
 
-A key finding during EDA — over 95% of customers had made only a single purchase — required designing custom scoring functions outside standard quantile methods to meaningfully isolate high-value segments from the broader one-time buyer pool.
+A key EDA finding — over 95% of customers had made only a single purchase — required custom scoring functions outside standard quantile methods to meaningfully isolate high-value segments from the broader one-time buyer pool.
 
-`Python` · `FastAPI` · `Pandas` · `Seaborn` · `RFM Analysis`
+`Python` `FastAPI` `Pandas` `Seaborn` `RFM Analysis`
 
----
+</td>
+<td width="50%" valign="top">
+
+### More on the way
+
+Currently building out additional projects in machine learning and applied statistics — check back soon, or see my [portfolio](https://Yash49-Xe.github.io) for the full list as it grows.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Currently Learning
 
-- **SQL** — query optimization and working with large-scale structured datasets
-- **Scikit-Learn** — supervised and unsupervised learning pipelines
-- **Machine learning fundamentals** — regression, classification, and clustering with emphasis on the underlying mathematics
-- **Pipeline optimization** — applying scientific computing principles to improve data processing efficiency
+| Area | Focus |
+|---|---|
+| **SQL** | Query optimization and large-scale structured datasets |
+| **Scikit-Learn** | Supervised and unsupervised learning pipelines |
+| **ML Fundamentals** | Regression, classification, and clustering — with emphasis on underlying mathematics |
+| **Pipeline Optimization** | Applying scientific computing principles to data processing efficiency |
 
----
+<br/>
+
 ## GitHub Stats
 
 <p align="center">
@@ -105,17 +148,23 @@ A key finding during EDA — over 95% of customers had made only a single purcha
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash49-Xe&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&theme=tokyo-night" />
 </p>
 
----
+<br/>
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe)
-- **Twitter / X:** [@Yash_49_Xe](https://x.com/Yash_49_Xe)
-- **LeetCode:** [leetcode.com/u/Yash_xe--49](https://leetcode.com/u/Yash_xe--49)
-- **Email:** yashraj4009.xe@gmail.com
+<div align="center">
 
----
+| | |
+|---|---|
+| **LinkedIn** | [linkedin.com/in/yash-raj-49xe](https://www.linkedin.com/in/yash-raj-49xe) |
+| **Twitter / X** | [@Yash_49_Xe](https://x.com/Yash_49_Xe) |
+| **LeetCode** | [leetcode.com/u/Yash_xe--49](https://leetcode.com/u/Yash_xe--49) |
+| **Email** | yashraj4009.xe@gmail.com |
+
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash49-Xe&style=flat&color=6366f1" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yash49-Xe&style=flat-square&color=6366f1" alt="Profile views"/>
 </p>
