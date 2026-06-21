@@ -88,11 +88,21 @@ A key finding during EDA — over 95% of customers had made only a single purcha
 - **Pipeline optimization** — applying scientific computing principles to improve data processing efficiency
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yash49-Xe&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash49-Xe&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash49-Xe&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yash49-Xe&hide_border=true&theme=tokyonight" height="150"/>
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash49-Xe&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&theme=tokyo-night" />
 </p>
 
 ---
