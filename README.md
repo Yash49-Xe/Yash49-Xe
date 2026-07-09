@@ -166,12 +166,12 @@ Currently building out additional projects in machine learning and applied stati
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash49-Xe&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash49-Xe&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash49-Xe&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash49-Xe&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yash49-Xe&hide_border=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Yash49-Xe&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ### Contribution Graph
